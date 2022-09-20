@@ -1,19 +1,24 @@
-/*MY CODE*/
-h1{
-    color: green;
+.decode-challenge-title{
+    font-size: 40px;
 }
 
-p {
-    color: #fff;
-    background-color: rgb(255, 0, 0);
+.decode-challenge {
+    font-size: 40px;
+    font-family: Wingdings;
 }
 
-.index-h2{
+.index-h1{
     color: peachpuff;
     background-color: blue;
     text-align: center;
+    font-size: 70px;
+    margin: 0px;
 }
 
-#index-h2{
+.beta-tests{
+    background-color: black;
+    text-align: center;
     font-size: 70px;
+    color: aqua;
+    margin: 0px;
 }
