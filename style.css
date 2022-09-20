@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Nosifer-Regular;
+    src: url(fonts/Nosifer-Regular.ttf);
+}
+
 .decode-challenge-title{
     font-size: 40px;
 }
@@ -21,4 +26,5 @@
     font-size: 70px;
     color: aqua;
     margin: 0px;
+    font-family: Nosifer-Regular;
 }
