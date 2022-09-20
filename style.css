@@ -5,6 +5,7 @@
 
 .decode-challenge-title{
     font-size: 40px;
+    margin-bottom: 0px;
 }
 
 .decode-challenge {
@@ -29,7 +30,11 @@
     font-family: Nosifer-Regular;
 }
 
-.grocery-list{
-    font-size: 40px;
-    margin-bottom: 0px;
+.decode-challenges-link{
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+.no-decode-challenges{
+    font-size: 60px;
 }
