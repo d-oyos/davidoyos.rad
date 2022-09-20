@@ -24,7 +24,12 @@
     background-color: black;
     text-align: center;
     font-size: 70px;
-    color: aqua;
+    color: green;
     margin: 0px;
     font-family: Nosifer-Regular;
+}
+
+.grocery-list{
+    font-size: 40px;
+    margin-bottom: 0px;
 }
