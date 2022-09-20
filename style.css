@@ -1,8 +1,19 @@
 /*MY CODE*/
-h2{
+h1{
     color: green;
 }
 
-.title{
+p {
+    color: #fff;
+    background-color: rgb(255, 0, 0);
+}
+
+.index-h2{
     color: peachpuff;
+    background-color: blue;
+    text-align: center;
+}
+
+#index-h2{
+    font-size: 70px;
 }
